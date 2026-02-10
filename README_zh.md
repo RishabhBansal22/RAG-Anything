@@ -1134,6 +1134,64 @@ await rag.process_document_complete(
 
 ---
 
+## 📚 文档
+
+*更多资源*
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="PROJECT_STRUCTURE.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🏗️</span>
+          </div>
+          <b>项目结构</b><br>
+          <sub>仓库组织结构</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/batch_processing.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">⚡</span>
+          </div>
+          <b>批量处理</b><br>
+          <sub>并行文档处理</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/context_aware_processing.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🧠</span>
+          </div>
+          <b>上下文处理</b><br>
+          <sub>上下文感知功能</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/enhanced_markdown.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">📝</span>
+          </div>
+          <b>增强Markdown</b><br>
+          <sub>Markdown转换</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/offline_setup.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🔌</span>
+          </div>
+          <b>离线设置</b><br>
+          <sub>离线环境配置</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📖 引用
 
 *学术参考*
