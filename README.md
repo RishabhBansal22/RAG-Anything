@@ -1153,6 +1153,64 @@ Different content types require specific optional dependencies:
 
 ---
 
+## 📚 Documentation
+
+*Additional Resources*
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="PROJECT_STRUCTURE.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🏗️</span>
+          </div>
+          <b>Project Structure</b><br>
+          <sub>Repository Organization</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/batch_processing.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">⚡</span>
+          </div>
+          <b>Batch Processing</b><br>
+          <sub>Parallel Document Processing</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/context_aware_processing.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🧠</span>
+          </div>
+          <b>Context Processing</b><br>
+          <sub>Context-Aware Features</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/enhanced_markdown.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">📝</span>
+          </div>
+          <b>Enhanced Markdown</b><br>
+          <sub>Markdown Conversion</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="docs/offline_setup.md">
+          <div style="width: 100px; height: 100px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2); display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+            <span style="font-size: 32px;">🔌</span>
+          </div>
+          <b>Offline Setup</b><br>
+          <sub>Air-Gapped Environments</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📖 Citation
 
 *Academic Reference*
